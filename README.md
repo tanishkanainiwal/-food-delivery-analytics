@@ -24,7 +24,7 @@ Analyzed 45,593 real food delivery records to identify patterns and predict deli
 | XGBoost | 7.29 min | 0.395 |
 
 ## Live Demo
-[Streamlit App Link] — Coming soon
+https://tanishkanainiwal-food-delivery-analytics-app-xxxxx.streamlit.app
 
 ## Dataset
 Kaggle — Food Delivery Time Prediction by Rajat Kumar
